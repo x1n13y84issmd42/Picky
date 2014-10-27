@@ -1,4 +1,4 @@
 Picky
 =====
 
-Declarative serialization framework for Java
+A declarative serialization framework for Java
